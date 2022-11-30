@@ -1,0 +1,15 @@
+C:\Users\Lenovo\OneDrive\Рабочий стол\LISN2\bin\Debug\net6.0\LISN2.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\LISN2\bin\Debug\net6.0\LISN2.deps.json
+C:\Users\Lenovo\OneDrive\Рабочий стол\LISN2\bin\Debug\net6.0\LISN2.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Рабочий стол\LISN2\bin\Debug\net6.0\LISN2.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\LISN2\bin\Debug\net6.0\LISN2.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\LISN2\obj\Debug\net6.0\LISN2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\LISN2\obj\Debug\net6.0\LISN2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Рабочий стол\LISN2\obj\Debug\net6.0\LISN2.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\LISN2\obj\Debug\net6.0\LISN2.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Рабочий стол\LISN2\obj\Debug\net6.0\LISN2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\LISN2\obj\Debug\net6.0\LISN2.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\LISN2\obj\Debug\net6.0\refint\LISN2.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\LISN2\obj\Debug\net6.0\LISN2.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\LISN2\obj\Debug\net6.0\LISN2.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\LISN2\obj\Debug\net6.0\ref\LISN2.dll
